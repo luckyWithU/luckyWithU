@@ -2,9 +2,7 @@
 - 👀 I’m Blockchain and full-stack web developer
 - 🌱 I have experience with blockchain technologies, in particular with dApps and NFT ecosystem.
 
-
-My email: luckywithuendless@gmail.com
-My skype: live:.cid.ce8e952920ae29b8
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <!---
 luckyWithU/luckyWithU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
