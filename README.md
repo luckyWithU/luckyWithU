@@ -7,7 +7,7 @@
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=luckyWithU" />
-  <img height="495px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyWithU&layout=compact&langs_count=8" />
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyWithU&layout=compact&langs_count=8" />
 <img style="margin-top: 20px" src="https://github-profile-trophy.vercel.app/?username=luckyWithU&theme=onedark" />
 </div>
 
