@@ -2,7 +2,7 @@
 - 👀 I’m Blockchain and full-stack web developer
 - 🌱 I have experience with blockchain technologies, in particular with dApps and NFT ecosystem.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luckywithu&show_icons=true&theme=radical)
+![LuckyWithU's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anurag&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
