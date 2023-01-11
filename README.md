@@ -6,9 +6,9 @@
 - 🌱 I have experience with blockchain technologies, in particular with dApps and NFT ecosystem.
 
 <div align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luckyWithU)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=luckyWithU&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckyWithU&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=luckyWithU" />
+<img src="https://github-profile-trophy.vercel.app/?username=luckyWithU&theme=onedark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyWithU&layout=compact&langs_count=8" />
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
