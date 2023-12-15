@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack developer</h3>
 
 - 👋 Hi, I’m @luckyWithU
-- 👀 I’m Blockchain and full-stack web developer
+- 👀 I’m a full-stack web developer
 - 🌱 I have experience with blockchain technologies, in particular with dApps and NFT ecosystem.
 
 <div align="center" style="padding-top: 30px">
