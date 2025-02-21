@@ -6,7 +6,7 @@
 - 🌱 I have experience with blockchain technologies, in particular with dApps and NFT ecosystem.
 
 <div align="center" style="padding-top: 30px">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=luckyWithU" />
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=luckyWithU" /> -->
   <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyWithU&layout=compact&langs_count=8" />
  </div>
  <div style="padding-top: 10px" align="center">
